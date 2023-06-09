@@ -24,8 +24,8 @@ src="https://avatars.githubusercontent.com/u/66253711?v=4" width="100" height="1
           </tr>
           <tr>
             <td align='center'>유건</td>
-            <td align='center'>정찬우</td>
             <td align='center'>최건웅</td>
+            <td align='center'>정찬우</td>
           </tr>
         </tr>
     </tbody>
