@@ -1,7 +1,7 @@
 #include <ncurses.h>
 int main()
 {
-    //윈도우 세개 생성
+    //윈도우 세 개 생성
     WINDOW *win1;
     WINDOW *win2;
     WINDOW *win3;
