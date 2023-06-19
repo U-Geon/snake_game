@@ -33,8 +33,13 @@ src="https://avatars.githubusercontent.com/u/66253711?v=4" width="100" height="1
 </div>
 
 &nbsp;  
----
+
 ## 구현
+보고서 참고 
 
+- 시연영상
 
-## 작동
+<b>https://youtu.be/Z-BmZDvtZH8</b>
+
+## 실행
+```g++ -o make 실행파일명 snake3.cpp -Incurses```
